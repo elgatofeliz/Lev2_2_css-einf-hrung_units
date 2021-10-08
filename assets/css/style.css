@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../img/brandon-morgan-LHdST1-f2bc-unsplash.jpg);
+    height: 97vh;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+
+h3{
+    width: 95vw;
+    font-size: 6vh;
+    margin: 3vh;
+    background-image: linear-gradient(darkcyan, purple);
+}
